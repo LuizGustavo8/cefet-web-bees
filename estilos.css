@@ -85,3 +85,15 @@ img:not([alt]) {
 #curiosidade-rainha {
   clear: left;
 }
+#zangao-body {
+    background-image: linear-gradient(to bottom, #a8c5fd, #f2ffb0);
+
+}
+#operaria-body {
+    background-image: linear-gradient(to bottom, #a8c5fd, #71d675);
+
+}
+#rainha-body {
+    background-image: linear-gradient(to bottom, #f2ffb0, #71d675);
+
+}
